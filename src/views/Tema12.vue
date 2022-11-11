@@ -106,32 +106,36 @@
               figure
                 img(src="@/assets/curso/tema12/numero-uno.svg", alt="alt").img100
             .col
-              h5 Todo dígito diferente de cero es una cifra significativa:
-              p 6 mL tiene una sola cifra significativa. 6,0 mL tiene dos cifras significativas; 640 mL tiene tres cifras significativas.
+              h5 Todos los ceros a la derecha de una cifra diferente de cero son cifras significativas. 
+              p -   2,00 m tiene tres cifras significativas
+              p -   3,2400 L tiene cinco cifras significativas.
+              p -   120 L tiene tres cifras significativas
+              p.mb-3 -   200 g tiene tres cifras significativas
+              p 25000 mL tiene cinco cifras significativas si se midió con un instrumento cuya apreciación es 1 mL, pero sólo tendrá tres cifras significativas si la apreciación es 100 mL.
         .crd.crd--avatarHorizontal.py-4.crd--2
           .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/tema12/numero-2.svg", alt="alt").img100
             .col
-              h5 Todo cero que se encuentre entre dos dígitos diferentes de cero, es una cifra significativa: 
-              p 307 g tiene tres cifras significativas; 5024 mL tiene cuatro cifras significativas.
+              h5 Cuando se desee expresar una cantidad sin que queden dudas, es recomendable usar la notación científica:
+              p -   120 L con sólo dos cifras significativas se expresará 1,2 x 102 L.
+              p -   25000 mL con tres cifras significativas se expresará 2,50 x 104 mL.
         .crd.crd--avatarHorizontal.py-4.crd--3
           .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/tema12/numero-3.svg", alt="alt").img100
             .col
-              h5 Los ceros a la izquierda del primer dígito diferente de cero no son cifras significativas:
-              p 0,305 kg tiene tres cifras significativas; 0,0085 L tiene dos cifras significativas; 0,00003204 km tiene cuatro cifras significativas; 0,05 cm3 tiene una sola cifra significativa.
+              h5 Cuando se resuelven problemas, las cifras significativas deberán indicarse en el enunciado.
+              p En caso de duda se recomienda al estudiante utilizar al menos tres cifras. significativas en todos los cálculos.
         .crd.crd--avatarHorizontal.crd--4.py-4
           .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/tema12/numero-4.svg", alt="alt").img100
             .col
-              h5 Los ceros a la izquierda del primer dígito diferente de cero no son cifras significativas:
-              p 0,305 kg tiene tres cifras significativas; 0,0085 L tiene dos cifras significativas; 0,00003204 km tiene cuatro cifras significativas; 0,05 cm3 tiene una sola cifra significativa.
+              h5 Cuando se resuelven problemas que implican datos experimentales, se deben tomar las cifras significativas que indique el instrumento de medida. (p.24)
     separador
     #t_12_3.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 12.3 Exactitud y precisión
@@ -397,6 +401,7 @@
         img(src='@/assets/curso/tema12/ecuacion2.svg')
     hr
     h4.my-5(data-aos="fade-down-left") Reportar la desviación estándar
+    p.mb-5 Se puede reportar la desviación estándar relativa a la media. Este valor no tiene unidades:
     .row.justify-content-center.mb-5
       .col-lg-6.col-md-12.fondo-18.px-5.py-4(data-aos="fade-down-right")
         img(src='@/assets/curso/tema12/ecuacion3.svg')
@@ -705,7 +710,7 @@
           .col-lg-10.col-md-12.mb-4(data-aos="fade-down")
             img(src='@/assets/curso/tema12/fig3.svg')   
 
-
+    p.my-5 Finalmente, para obtener la concentración de analito en la muestra hay que tener en cuenta en los cálculos las posibles diluciones a las que se ha sometido la muestra para obtener las disoluciones M1, M2 y M3 de medida.
 </template>
 
 <script>

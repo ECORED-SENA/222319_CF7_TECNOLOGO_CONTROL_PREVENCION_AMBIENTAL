@@ -85,6 +85,7 @@
         p c) Ser un sólido con la capacidad bajo condiciones de temperatura de 25 °C y presión de 1.0 atmósfera, de producir fuego por fricción, absorción de humedad o alteraciones químicas espontáneas y quema vigorosa, y persistentemente dificultando la extinción del fuego. Ser un oxidante que puede liberar oxígeno y, como resultado, estimular la combustión y aumentar la intensidad del fuego en otro material.
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-4.col-md-8.col-sm-10.col-12(data-aos="fade-down-right")
+        p El concepto de evaluación involucra un factor adicional: la medición. Evaluar es medir resultados obtenidos contra un parámetro establecido. Sin embargo, resulta poco objetivo tratar de evaluar los resultados contra un parámetro cuantitativo único, pues se deben considerar también elementos cualitativos que son difíciles de medir, (Fernández, 2007).
         p Lo dicho hasta aquí, supone que las métricas del marketing pueden aclarar algunas de las cuestiones clave como:
         ul.lista-ul
           li 
@@ -340,38 +341,14 @@
         img(src='@/assets/curso/tema10/imagen9.jpg')
     p.mt-5(data-aos="fade-down-right") El otro procedimiento se basa en colocar la muestra en un vaso de precipitado, introducir el electrodo del potenciómetro y realizar la lectura.
     //--Título fondo azul
-    .row.my-5
+    .row.mt-5.mb-4
       .col-auto(data-aos="fade-down-left")
         h3.text-white.text-center.fondo-4 Densidad
     p(data-aos="fade-down-right") De acuerdo al Ministerio de Medio Ambiente Perú (2014):
     p(data-aos="fade-down-right") La densidad hace referencia a la cantidad de masa ocupada en un volumen determinado y su relación es referenciada al peso: g/mL; kg/m3 …etc. 
     p.mb-5(data-aos="fade-down-right") Para la determinación se realiza el siguiente protocolo.
-    .row.justify-content-center.align-items-center.my-5
-      .col-lg-7.col-md-12.col-sm-12.col-12.mb-4(data-aos="fade-down-right")
-        p Lo dicho hasta aquí, supone que las métricas del marketing pueden aclarar algunas de las cuestiones clave como:
-        ul.lista-ul
-          li 
-            i.fas.fa-check
-            | Utilizar un recipiente con capacidad conocida de preferencia cilindros 150 u 200 litros y con lados homogéneos. 
-          li 
-            i.fas.fa-check
-            | Medir la altura y diámetro del recipiente cilíndrico. 
-          li 
-            i.fas.fa-check
-            | Al azar escoger bolsas de las ya registradas y pesadas y vaciar su contenido dentro del recipiente, 
-          li 
-            i.fas.fa-check
-            | Una vez lleno el recipiente, levantar el cilindro 20 cm sobre la superficie y dejarlo caer, repite esta acción por tres veces, con la finalidad de uniformizar la muestra llenando los espacios vacíos del cilindro. 
-          li 
-            i.fas.fa-check
-            | Medir la altura y registrar el dato.
-          li 
-            i.fas.fa-check
-            | Realizar este procedimiento durante los 8 días del estudio. 
-          li 
-            i.fas.fa-check
-            | Cuando se llene el cilindro se procede a determinar la altura que se deja libre de residuos sólidos dentro de este, para ello se debe medir la altura libre del cilindro es decir la altura sin residuos y se registra. (p.43).
-      .col-lg-5.col-md-12(data-aos="fade-down-left")
+    //-.row.justify-content-center.align-items-center.my-5
+      .col-lg-5.col-sm-12(data-aos="fade-down-left")
         img(src='@/assets/curso/tema10/imagen10.jpg')
 
     .row.mb-3.fondo-11.redondearpuntas.align-items-center.p-3.justify-content-center
@@ -475,7 +452,7 @@
               img(src='@/assets/curso/tema10/imagen15.png')
         .row.justify-content-center
           .col-md-4.mb-4.mb-md-0(data-aos="fade-down-right")
-            p Si la relación C/N es muy baja el compostaje es más rápido pero el exceso de nitrógeno se desprende en forma amoniacal, produciéndose una autorregulación de la relación C/N del proceso (<em>Dalzell</em> et al, 1991, Barrena, 2006 & Moreno y Moral, 2007).microbiológica de estas.
+            p Si la relación C/N es muy baja el compostaje es más rápido pero el exceso de nitrógeno se desprende en forma amoniacal, produciéndose una autorregulación de la relación C/N del proceso (<em>Dalzell</em> et al, 1991, Barrena, 2006 & Moreno y Moral, 2007).
           .col-md-7(data-aos="fade-down-left")
             figure
               img(src='@/assets/curso/tema10/imagen16.png')

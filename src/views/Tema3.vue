@@ -150,6 +150,7 @@
                 | Tener un peso equivalente alto.
           .col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
             img(src='@/assets/curso/tema3/imagen3.png')
+        p.my-5 El patrón primario que se utiliza para la estandarización de soluciones NaOH es el biftalato de potasio.
         .row
           .col-auto(data-aos="fade-down-left")
             h3.text-white.text-center.fondo-4 Equivalencias
@@ -179,7 +180,7 @@
             img(src='@/assets/curso/tema3/imagen4.png')
           .row
             .col-auto(data-aos="fade-down-left")
-              h3.text-white.text-center.fondo-4 Resumen
+              h3.text-white.text-center.fondo-4 Resumen gráfico
           p.mb-5(data-aos="fade-down-left") Se puede resumir de la siguiente manera:
           .titulo-sexto.color-acento-contenido(data-aos="fade-down-right")
             h5 Figura 1. 

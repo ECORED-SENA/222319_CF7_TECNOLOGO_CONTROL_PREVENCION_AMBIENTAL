@@ -341,6 +341,17 @@ export default {
     },
     {
       referencia:
+        'Torres. H.- universidad libre (s, f) Guía 1 química analítica.',
+      link: 'http://www.redjbm.com/catedra/guias/quimica/QUI-ANA-GUI1.pdf',
+    },
+    {
+      referencia:
+        'Thomas, L (2019, febrero 26). Técnicas de la química analítica. News Medical Life science.',
+      link:
+        'https://www.news-medical.net/life-sciences/Analytical-Chemistry-Techniques-(Spanish).aspx',
+    },
+    {
+      referencia:
         'Universidad Carlos III de Madrid ( s.f ) Determinación de los parámetros físico-químicos de calidad de las aguas',
       link: 'https://www.upct.es/~minaeees/analisis_aguas.pdf',
     },

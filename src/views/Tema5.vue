@@ -16,14 +16,19 @@
     .row.justify-content-center
       .col-lg-10.col-md-12(data-aos="fade-down-right")
         .cajon.color-acento-contenido.otrocolor.p-4.mb-4
-          .row.justify-content-center
-            .col-lg-1.col-md-2.col-sm-2.col-3.mb-4.mb-sm-0
+          .row.justify-content-center.align-items-center
+            .col-xxl-1.col-lg-1.col-md-2.col-sm-2.col-3.mb-4.mb-lg-0
               img(src='@/assets/curso/tema5/figura1.svg')
-            .col-lg-11.col-md-10.col-sm-10.col-12
+            .col-xxl-9.col-lg-8.col-md-12.col-sm-12.col-12
               p La principal norma que rige el tema de calidad del agua en Colombia es el Decreto 1575 y resolución 2115 del año 2007, por medio del cual se establece el sistema para la protección y control de la calidad del agua para consumo humano.
+            .col-xxl-2.col-lg-3.col-md-3.col-sm-3.col-3.my-3.my-sm-0
+              a.boton.color-secundario.me-3(:href="obtenerLink('downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                span Descargar
+                i.fas.fa-file-download
     separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 5.1 Variables físicas, químicas y microbiológicas del agua
+    p.my-5 Los parámetros físicos, químicos y microbiológicos del agua que se va analizar dependen de la carga de contaminantes y uso que se va dar a la misma; es así que se pueden agrupar protocolos de análisis.
     .row.mb-5
       .col-auto(data-aos="fade-down-left")
         h3.text-white.text-center.fondo-4 Parámetros físicos
@@ -322,12 +327,17 @@
         .tarjeta.fondo-12
           .text-dark.p-4.pt-2
             p.text-center Así, el término “grasas y aceites” comprende cualquier material recuperado como una sustancia soluble en el solvente (n-hexano). Esto incluye otros materiales extraídos por el solvente de la muestra acidificada, tales como compuestos azufrados, algunos colorantes orgánicos y clorofila, no volatilizados durante el ensayo.
-
+            .row.justify-content-center
+              .col-auto
+                a.boton.color-secundario.me-3.m-auto(:href="('http://www.ideam.gov.co/documents/14691/38155/Grasas+y+Aceites+en+agua+por+m%C3%A9todo+Soxhlet..pdf/15096580-8833-415f-80dd-ceaa7888123d')" target="_blank" type="application/pdf" title="Citado de: IDEAM ( 2007) metodologías de análisis. Determinación de grasas y aceites en aguas por el método soxhlet  p.1")
+                  span Ver
+                  i.fas.fa-link
       .tarjeta-avatar
         img.p-4(src='@/assets/curso/tema5/figura10.svg')
         .tarjeta.fondo-12
           .text-dark.p-4.pt-2
-            p.text-center Cloruros: El cloruro (Cl - ) es uno de los aniones inorgánicos que se encuentran en mayor concentración en aguas de consumo y aguas de desecho. En agua potable el sabor salino producido por la presencia de cloruros es variable y depende de la composición química del agua. Un alto contenido de cloruros en las aguas puede dañar estructuras y tuberías metálicas, al igual que afecta el crecimiento de la flora.
+            span.text-center.text-bold Cloruros: 
+            span El cloruro (Cl - ) es uno de los aniones inorgánicos que se encuentran en mayor concentración en aguas de consumo y aguas de desecho. En agua potable el sabor salino producido por la presencia de cloruros es variable y depende de la composición química del agua. Un alto contenido de cloruros en las aguas puede dañar estructuras y tuberías metálicas, al igual que afecta el crecimiento de la flora.
 
       .tarjeta-avatar
         img.p-4(src='@/assets/curso/tema5/figura11.svg')
@@ -345,7 +355,8 @@
         img.p-4(src='@/assets/curso/tema5/figura13.svg')
         .tarjeta.fondo-12
           .text-dark.p-4.pt-2
-            p.text-center Interferencias y limitaciones: Los yoduros, bromuros y cianuros reaccionan con cloruros. Los iones sulfuros, tiosulfatos y sulfitos interfieren pero pueden ser eliminados por tratamiento con peróxido de hidrógeno.
+            span.text-center.text-bold Interferencias y limitaciones: 
+            span Los yoduros, bromuros y cianuros reaccionan con cloruros. Los iones sulfuros, tiosulfatos y sulfitos interfieren pero pueden ser eliminados por tratamiento con peróxido de hidrógeno.
 
       .tarjeta-avatar
         img.p-4(src='@/assets/curso/tema5/figura14.svg')
@@ -395,6 +406,8 @@
               br
               span.text-bold Acidificación: 
               span La acidificación con HCl 1 N está designada para prevenir la interferencia de concentraciones de hidróxido o carbonato hasta de 1000 mg CaCO3/L. El cloruro no tiene efecto en la determinación. La técnica de monitoreo espectrofotométrico ultravioleta de NO3 - obedece la Ley de Beer entre 0.03 y 5 mg NO3 - -N/L.
+    p.mt-5 Para continuar el apartado Parámetros químicos, Conozca a continuación otros elementos de suma importancia referentes al mismo.
+    h4.my-5(data-aos="fade-down-right") Acidez
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="fade-down-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema5/imagen17.jpg')})`}"
@@ -449,6 +462,12 @@
             p.text-center Todo el nitrógeno presente en compuestos orgánicos puede considerarse nitrógeno orgánico. 
 
       .tarjeta-avatar
+        img.p-2(src='@/assets/curso/tema5/fig6.svg')
+        .tarjeta.fondo-14.px-4
+          .text-dark.p-4.pt-4
+            p.text-center El contenido de nitrógeno orgánico en un agua incluye el nitrógeno de aminoácidos, aminas, polipéptidos, proteínas y otros compuestos orgánicos del nitrógeno. El nitrógeno amino de la mayoría de materiales orgánicos y el amoniaco libre son convertidos a amonio en presencia de H2SO4, sulfato de potasio (K2SO4), y sulfato de Cobre II (CuSO4) como catalizador. 
+
+      .tarjeta-avatar
         img.p-2(src='@/assets/curso/tema5/fig4.svg')
         .tarjeta.fondo-14
           .text-dark.p-4.pt-4
@@ -459,11 +478,6 @@
           .text-dark.p-4.pt-4
             p.text-center El método se aplica en este laboratorio para la matriz aguas residuales industriales y superficiales. Se emplea para el intervalo de 0,50 a 1.000 mg de N/L. Es un método electrométrico, en el que se determina el amoniaco y se expresa como nitrógeno (N). El método Kjeldahl determina el nitrógeno en estado tri negativo; el “Nitrógeno Kjeldahl” es la suma del nitrógeno Orgánico y el nitrógeno amoniacal.
 
-      .tarjeta-avatar
-        img.p-2(src='@/assets/curso/tema5/fig6.svg')
-        .tarjeta.fondo-14
-          .text-dark.p-4.pt-4
-            p.text-center Cloruros: El cloruro (Cl - ) es uno de los aniones inorgánicos que se encuentran en mayor concentración en aguas de consumo y aguas de desecho. En agua potable el sabor salino producido por la presencia de cloruros es variable y depende de la composición química del agua. Un alto contenido de cloruros en las aguas puede dañar estructuras y tuberías metálicas, al igual que afecta el crecimiento de la flora.
     .row.mb-5
       .col-auto(data-aos="fade-down-left")
         h3.text-white.text-center.fondo-4 Parámetros microbiológicos
@@ -473,31 +487,31 @@
     .tarjeta.tarjeta--gris.fondo-7.p-4.mb-5
       SlyderA(tipo="b")(data-aos="fade-down-left")
         .row.justify-content-center
-          .col-md-4.mb-4.mb-md-0
+          .col-xl-4.mb-4.mb-md-0
             p Pero en la contaminación por desecho sanitario están presentes microorganismos que podrán perjudicar la salud humana. Los microorganismos patogénicos incluyen virus, bacterias, protozoarios y helmintos, coliformes totales y  E.Coli. Bajo el Método NMP pueden encontrarse:
             p La <em>Escherichia coli</em> forma la mayor parte de la flora comensal aerobia y anaerobia facultativa del tubo digestivo, y se elimina por las heces al exterior, por lo tanto, no es Infrecuente que se encuentre en el medio ambiente, donde son capaces de sobrevivir durante cierto tiempo en el agua y los alimentos, de manera que su aislamiento constituye un indicador de contaminación fecal reciente.
-          .col-md-7
+          .col-xl-7
             figure
               img(src='@/assets/curso/tema5/imagen19.png')
         .row.justify-content-center
-          .col-md-4.mb-4.mb-md-0
+          .col-xl-4.mb-4.mb-md-0
             p Puede intervenir en procesos patológicos como la producción de cuadros intestinales, diarreas e infecciones extra intestinales diversas.
             p Los coliformes totales, se encuentran con más frecuencia en el medio ambiente, pueden estar en el suelo y en las superficies del agua dulce, por lo que no son siempre intestinales, su identificación en estas fuentes sugiere fallas en la eficiencia del tratamiento y la integridad del sistema de distribución.
-          .col-md-7
+          .col-xl-7
             figure
               img(src='@/assets/curso/tema5/imagen20.png')
         .row.justify-content-center
-          .col-md-4.mb-4.mb-md-0
+          .col-xl-4.mb-4.mb-md-0
             p La prueba de enzima - sustrato definido, se fundamenta en la actividad enzimática de los Coliformes totales y los coliformes fecales (E. coli) Los coliformes totales se diferencian según su capacidad para fermentar lactosa, así:
             p Fermentadores rápidos: E. coli, klebsiella, enterobacter, poseen 2 enzimas, la betagalactósido - permeasa, su actividad es permitir que la lactosa se difunda a través de la membrana celular. La otra es la beta-galactosidasa la cual descompone por hidrólisis el enlace beta - galactósido que une las moléculas de glucosa y galactosa para formar el disacárido de lactosa, liberando así la glucosa que de esta manera puede ser fermentada. Los fermentadores lentos: carecen de la enzima beta -galactósido - permeasa.
-          .col-md-7
+          .col-xl-7
             figure
               img(src='@/assets/curso/tema5/imagen21.png')
         .row.justify-content-center
-          .col-md-4.mb-4.mb-md-0(data-aos="fade-down-right")
+          .col-xl-4.mb-4.mb-md-0(data-aos="fade-down-right")
             p Los no fermentadores, no poseen ninguna de las enzimas. En los medios sólidos con lactosa se comportan en general como no fermentadoras y solo puede detectarse demostrando la presencia de beta - galactosidasa por la reacción del ONPG (ortonitrofenil - galactopiranósido) compuesto capaz de atravesar la pared celular y que la beta -galactosidasa descompone en galactosa y ortonitrofenil, que al liberarse en medio alcalino toma un color amarillo pálido.
             p El método está recomendado para análisis microbiológico para las muestras de agua en general, ya sea potable, de consumo humano, no tratadas, residuales, aguas de alberca y de playa. El método es aplicable en un rango de 1 a 1800 NMP/100mL para detectar y cuantificar la concentración de coliformes totales y E.coli para evaluar la calidad microbiológica de estas.
-          .col-md-7(data-aos="fade-down-left")
+          .col-xl-7(data-aos="fade-down-left")
             figure
               img(src='@/assets/curso/tema5/imagen22.png')
     .row.justify-content-center
@@ -586,6 +600,13 @@
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 5.2 Manejo de residuos, características de peligrosidad
     p.my-5(data-aos="fade-down-left") Los residuos de laboratorios de análisis de agua se clasifican en diversas categorías en función de su naturaleza, peligrosidad y destino final. Le invitamos a revisar la Tabla 5 del Anexo 6 para que afiance su comprensión al respecto del Manejo de residuos, característica de peligrosidad.
+    .row.justify-content-center
+      .col-auto
+        a.anexo.mb-4(:href="obtenerLink('downloads/Tratamiento_y_disposicion_de_los_residuos_generados_en_el_laboratorio.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Anexo 6. Tratamiento y disposicion de los residuos generados en el laboratorio
     separador
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 5.3 Método <em>Biological Monitoring Working Party BMWP</em>

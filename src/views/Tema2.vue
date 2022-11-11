@@ -17,6 +17,7 @@
         p.mb-0 El poder determinar la composición química de sólidos, líquidos, gases, disoluciones y cualquier otro material nos permite comprender sus características y así poder evaluar sus usos o quizás descubrir de dónde vinieron o dónde han estado.
     p.my-5(data-aos="fade-down-left") A continuación, le presentamos algunos elementos de orden teórico que favorecen la “inmersión” en el tema del 
       span.text-bold análisis de muestras.
+    h4.mb-5 Inducción al análisis de muestras
     .row.justify-content-center
       .col-lg-6.col-md-8.col-sm-10.col-12(data-aos="fade-down-right")
         ImagenInfograficaB.color-primario.mb-5

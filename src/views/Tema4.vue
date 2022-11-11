@@ -117,8 +117,9 @@
                 i.lista-ul__vineta.mb-0
                 | Norma Alemana VDI 3884 de 2015
 
-            p Citado de: tqi.co (s, f). Soluciones-confiables-olfatometría
-            p https://tqi.co/soluciones-confiables/olfatometria/#
+            p.mb-0 Citado de: tqi.co (s, f). Soluciones-confiables-olfatometría
+            a(href="https://tqi.co/soluciones-confiables/olfatometria/#" target="_blank")
+              p.color-link https://tqi.co/soluciones-confiables/olfatometria/#
           .tarjeta.fondo-6.p-3(x="50%" y="85%" numero="+")
             .h5.mb-2 Norma UNE-EN 13725: 2004
             p Según la norma UNE-EN 13725: 2004 “Calidad del aire. Determinación de la concentración de olor por olfatometría dinámica”, define el olor como “la propiedad organoléptica perceptible por el órgano olfativo cuando inspira sustancias volátiles”. Esta norma desarrolla las cuestiones relacionadas con la toma de muestras, cuantificación de la concentración de olor y cálculo de la emisión de olor de los focos.
@@ -160,7 +161,8 @@
       .col-lg-11.col-md-10.col-sm-10.col-12(data-aos="fade-down-left")
         p Los estudios olfato métricos constituyen una herramienta de gran utilidad para el control y reducción de los malos olores emitidos por distinto tipo de fuentes. Estos estudios permiten no sólo determinar el grado de molestia creado en el entorno, sino también identificar las fuentes de olor realmente importantes y adoptar sistemas eficaces de eliminación.
         p.mb-0 Citado de: Asociación Española para la calidad AEC (2010) Contaminación Odorífera  p.1-2
-        p.mb-0 https://www.aec.es/c/document_library/get_file?uuid=3527643c-0525-42fd-9943-1c881254e44f&groupId=10128
+        a(href="https://www.aec.es/c/document_library/get_file?uuid=3527643c-0525-42fd-9943-1c881254e44f&groupId=10128" target="_blank")
+          p.color-link.mb-0 https://www.aec.es/c/document_library/get_file?uuid=3527643c-0525-42fd-9943-1c881254e44f&groupId=10128
     p.my-5(data-aos="fade-down-right") Es momento de adentrarse en las Técnicas físico químicas de análisis olfatométricos. La caracterización de los olores se puede realizar mediante dos técnicas esencialmente: sensoriales y analíticas.
     .row.mb-5
       .col-auto(data-aos="fade-down-left")
@@ -215,7 +217,7 @@
             img(src='@/assets/curso/tema4/imagen8.jpg')
         .col-lg-9.col-md-12.col-sm-12.col-12.mb-4.mb-lg-0
           p Los análisis químicos son métodos de investigación y tienen la ventaja de ser repetibles y seguros, y se usan para caracterizar los componentes químicos de episodios de olor, especialmente para compuestos desconocidos. Sin embargo, una muestra puntual para un periodo de tiempo con análisis químicos subsecuentes, provee sólo información integrada de tiempo, pero no información relacionada con la frecuencia, intensidad y duración de la exposición, la cual es requerida para identificar efectivamente la huella de los componentes del olor. 
-          p En décadas anteriores se han desarrollado mejores tecnologías para análisis de compuestos químicos, como el espectrómetro transformador infrarrojo de paso abierto de Fourier (Open-Path Fourier transforminfrared / OP-FTIR) el cual ofrece monitoreo remoto, análisis multicompuestos rápidos y mediciones promedio.
+          p En décadas anteriores se han desarrollado mejores tecnologías para análisis de compuestos químicos, como el espectrómetro transformador infrarrojo de paso abierto de <em>Fourier (Open-Path Fourier transforminfrared</em> / OP-FTIR) el cual ofrece monitoreo remoto, análisis multicompuestos rápidos y mediciones promedio.
       .row.justify-content-center(titulo="Cromatografía de gases-olfatometría, o GCO")
         .col-lg-2.col-md-4.col-sm-4.col-5.mb-4.mb-lg-0
           figure
@@ -230,7 +232,8 @@
     .tabla-c(data-aos="fade-up")
       table
         caption.fondogris Citado de: fenavi.org. (2014). Resolución-2087-de-2014-Protocolo-Monitoreo-control-y-Vigilancia-de-Olores-Ofensivos-1.pdf. Colombia.p.9
-          p https://fenavi.org/wp-content/uploads/2018/05/Resoluci%C3%B3n-2087-de-2014-Protocolo-Monitoreo-control-y-Vigilancia-de-Olores-Ofensivos-1.pdf
+          a(href="https://fenavi.org/wp-content/uploads/2018/05/Resoluci%C3%B3n-2087-de-2014-Protocolo-Monitoreo-control-y-Vigilancia-de-Olores-Ofensivos-1.pdf" target="_blank")
+            p.color-link.mb-0 https://fenavi.org/wp-content/uploads/2018/05/Resoluci%C3%B3n-2087-de-2014-Protocolo-Monitoreo-control-y-Vigilancia-de-Olores-Ofensivos-1.pdf
         tr.fondo-9
           <td colspan="2" class="text-center"><h4>Elementos para la determinación de la concentración de sustancias de olores ofensivos en calidad del aire o inmisión</h4></td>
         tr
@@ -328,7 +331,7 @@
       .row
         .col-lg-5.col-md-12.mb-4.mb-lg-0
           h5 Permeabilidad de los residuos compactados
-          p La conductividad hidrológica de los residuos compactados es una propiedad física importante que, en gran parte, gobierna el movimiento de líquidos y gases dentro de un vertedero. El coeficiente de permeabilidad normalmente se escribe como la imagen a continuación, donde:
+          p La conductividad hidrológica de los residuos compactados es una propiedad física importante que, en gran parte, gobierna el movimiento de líquidos y gases dentro de un vertedero. El coeficiente de permeabilidad normalmente se escribe como:
           p.mb-0 K = Coeficiente de permeabilidad.
           p.mb-0 C = Constante sin dimensiones o factor de forma.
           p.mb-0 d = Tamaño medio de los poros.
