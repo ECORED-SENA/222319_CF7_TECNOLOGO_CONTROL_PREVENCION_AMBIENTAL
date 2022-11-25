@@ -19,12 +19,14 @@
           .row.justify-content-center.align-items-center
             .col-xxl-1.col-lg-1.col-md-2.col-sm-2.col-3.mb-4.mb-lg-0
               img(src='@/assets/curso/tema5/figura1.svg')
-            .col-xxl-9.col-lg-8.col-md-12.col-sm-12.col-12
-              p La principal norma que rige el tema de calidad del agua en Colombia es el Decreto 1575 y resolución 2115 del año 2007, por medio del cual se establece el sistema para la protección y control de la calidad del agua para consumo humano.
-            .col-xxl-2.col-lg-3.col-md-3.col-sm-3.col-3.my-3.my-sm-0
-              a.boton.color-secundario.me-3(:href="obtenerLink('downloads/prueba.pdf')" target="_blank" type="application/pdf")
-                span Descargar
-                i.fas.fa-file-download
+            .col-xxl-10.col-lg-8.col-md-12.col-sm-12.col-12
+              span La principal norma que rige el tema de calidad del agua en Colombia es el 
+              a.mb-4(:href="obtenerLink('downloads/Decreto_1575_de_2007.pdf')" target="_blank" type="application/pdf")
+                span.color-link Decreto 1575 
+              span y 
+              a.mb-4(:href="obtenerLink('downloads/Res_2115_de_2007.pdf')" target="_blank" type="application/pdf") 
+                span.color-link Resolución 2115 del año 2007 
+              span , por medio del cual se establece el sistema para la protección y control de la calidad del agua para consumo humano.
     separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 5.1 Variables físicas, químicas y microbiológicas del agua
