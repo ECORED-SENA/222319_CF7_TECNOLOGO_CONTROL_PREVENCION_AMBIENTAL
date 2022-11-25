@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="129.588" height="130" viewBox="0 0 129.588 130">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffbef9"/>
+      <stop offset="1" stop-color="#fff1ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff81ff"/>
+      <stop offset="1" stop-color="#a93aff"/>
+    </linearGradient>
+  </defs>
+  <g id="nitrogen-3" transform="translate(-0.812)">
+    <path id="Trazado_721203" data-name="Trazado 721203" d="M130.4,65a65,65,0,0,1-65,65c-86.129-3.187-86.105-126.826,0-130A65,65,0,0,1,130.4,65Z" transform="translate(0)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_721204" data-name="Trazado 721204" d="M178.62,105H106.434a2.247,2.247,0,0,0-2.247,2.247v72.187a2.247,2.247,0,0,0,2.247,2.247H178.62a2.247,2.247,0,0,0,2.247-2.247V107.247A2.247,2.247,0,0,0,178.62,105Zm-41.2,67.146a2.6,2.6,0,0,1-2.926-1.1L121.41,152.091V170.3a2.246,2.246,0,0,1-4.493,0V144.885a2.246,2.246,0,0,1,4.1-1.276L134.7,163.429l-.18-18.57a2.247,2.247,0,1,1,4.493-.043l.238,24.624a2.718,2.718,0,0,1-1.828,2.706Zm30.524-54.86-8.559,19.47a2.246,2.246,0,0,1-4.113-1.808l7.174-16.319h-7.269a2.246,2.246,0,0,1,0-4.493H165.89a2.246,2.246,0,0,1,2.057,3.15Z" transform="translate(-77.127 -78.34)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

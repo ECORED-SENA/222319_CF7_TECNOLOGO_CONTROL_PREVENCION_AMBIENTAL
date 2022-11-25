@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="158" viewBox="0 0 158 158">
+  <g id="Grupo_946944" data-name="Grupo 946944" transform="translate(-0.027 -0.104)">
+    <g id="Grupo_946940" data-name="Grupo 946940" transform="translate(0 0)">
+      <g id="Elipse_5524" data-name="Elipse 5524" transform="translate(0.027 0.103)" fill="#e8e8e8" stroke="#17263d" stroke-width="1">
+        <circle cx="79" cy="79" r="79" stroke="none"/>
+        <circle cx="79" cy="79" r="78.5" fill="none"/>
+      </g>
+      <g id="Elipse_5523" data-name="Elipse 5523" transform="translate(15.027 14.103)" fill="#fff" stroke="#17263d" stroke-width="1">
+        <ellipse cx="64" cy="64.5" rx="64" ry="64.5" stroke="none"/>
+        <ellipse cx="64" cy="64.5" rx="63.5" ry="64" fill="none"/>
+      </g>
+      <g id="Elipse_5522" data-name="Elipse 5522" transform="translate(27.027 27.103)" fill="#e8e8e8" stroke="#17263d" stroke-width="1">
+        <circle cx="51.5" cy="51.5" r="51.5" stroke="none"/>
+        <circle cx="51.5" cy="51.5" r="51" fill="none"/>
+      </g>
+      <g id="Elipse_5520" data-name="Elipse 5520" transform="translate(39.027 39.103)" fill="#fff" stroke="#17263d" stroke-width="1">
+        <circle cx="39.5" cy="39.5" r="39.5" stroke="none"/>
+        <circle cx="39.5" cy="39.5" r="39" fill="none"/>
+      </g>
+      <g id="Elipse_5521" data-name="Elipse 5521" transform="translate(53.027 53.103)" fill="#e8e8e8" stroke="#17263d" stroke-width="1">
+        <circle cx="26" cy="26" r="26" stroke="none"/>
+        <circle cx="26" cy="26" r="25.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_946936" data-name="Grupo 946936" transform="translate(61.961 60.139)">
+      <g id="Elipse_5511" data-name="Elipse 5511" transform="translate(15.066 2.965)" fill="#f1cc4b" stroke="#17263d" stroke-width="1">
+        <ellipse cx="5" cy="5.5" rx="5" ry="5.5" stroke="none"/>
+        <ellipse cx="5" cy="5.5" rx="4.5" ry="5" fill="none"/>
+      </g>
+      <g id="Elipse_5512" data-name="Elipse 5512" transform="translate(9.066 -0.035)" fill="#f1cc4b" stroke="#17263d" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+      <g id="Elipse_5513" data-name="Elipse 5513" transform="translate(0.066 6.965)" fill="#f1cc4b" stroke="#17263d" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+      <g id="Elipse_5514" data-name="Elipse 5514" transform="translate(9.066 14.965)" fill="#f1cc4b" stroke="#17263d" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

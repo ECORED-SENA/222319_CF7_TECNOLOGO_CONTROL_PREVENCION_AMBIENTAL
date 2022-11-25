@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="423.154" height="118.5" viewBox="0 0 423.154 118.5">
+  <g id="Grupo_948218" data-name="Grupo 948218" transform="translate(-570 -7748.5)">
+    <text id="Desviación_media_" data-name="Desviación media =" transform="translate(570 7831)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Desviación media =</tspan></text>
+    <text id="S" transform="translate(725 7831)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">S</tspan></text>
+    <text id="S-2" data-name="S" transform="translate(788.5 7819)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">S</tspan></text>
+    <text id="_" data-name="=" transform="translate(754 7831)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">=</tspan></text>
+    <text id="_2" data-name="=" transform="translate(826 7831)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">=</tspan></text>
+    <text id="R" transform="translate(734 7839)" fill="#12263f" font-size="16" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="0" y="17">R</tspan></text>
+    <g id="Grupo_948214" data-name="Grupo 948214" transform="translate(-35.5 -5)">
+      <text id="X" transform="translate(824 7850)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">X</tspan></text>
+      <path id="Trazado_721367" data-name="Trazado 721367" d="M17852.807-5006.181h8.469" transform="translate(-17026.541 12859)" fill="none" stroke="#000" stroke-width="1"/>
+    </g>
+    <path id="Trazado_721368" data-name="Trazado 721368" d="M17852.809-5006.181h24.7" transform="translate(-17069.809 12848)" fill="none" stroke="#000" stroke-width="1"/>
+    <g id="Grupo_948217" data-name="Grupo 948217" transform="translate(-12.5)">
+      <g id="Grupo_948215" data-name="Grupo 948215" transform="translate(112 -4)">
+        <text id="X-2" data-name="X" transform="translate(824 7850)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">X</tspan></text>
+        <path id="Trazado_721367-2" data-name="Trazado 721367" d="M17852.807-5006.181h8.469" transform="translate(-17026.541 12859)" fill="none" stroke="#000" stroke-width="1"/>
+      </g>
+      <g id="Grupo_948216" data-name="Grupo 948216" transform="translate(-16 1)">
+        <text id="n" transform="translate(924.5 7750)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">n</tspan></text>
+        <text id="n_-_1" data-name="n - 1" transform="translate(942.775 7814.854)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-16.422" y="17">n - 1</tspan></text>
+        <text id="_2-2" data-name="2" transform="translate(997 7748)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">2</tspan></text>
+        <text id="i_1" data-name="i=1" transform="translate(912.639 7790)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-11.723" y="17">i=1</tspan></text>
+        <text id="_Xi_-_X_" data-name="│Xi - X│" transform="translate(931.5 7765)" fill="#12263f" font-size="16" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="17">│</tspan><tspan y="17" font-family="SegoeUI, Segoe UI">Xi - X</tspan><tspan y="17">│</tspan></text>
+        <path id="Trazado_721307" data-name="Trazado 721307" d="M17852.807-5006.181h8.469" transform="translate(-16877.266 12773)" fill="none" stroke="#000" stroke-width="1"/>
+        <path id="Trazado_721308" data-name="Trazado 721308" d="M17798.584-5162.409h-11l5.912,8.956-5.912,10.371h11" transform="translate(-16867.084 12933.082)" fill="none" stroke="#000" stroke-width="2"/>
+        <path id="Trazado_721309" data-name="Trazado 721309" d="M17814.5-4923.5h96" transform="translate(-16904.5 12738.354)" fill="none" stroke="#000" stroke-width="1"/>
+      </g>
+      <path id="Trazado_721369" data-name="Trazado 721369" d="M17814.5-4923.5h137.154" transform="translate(-16945.998 12766.318)" fill="none" stroke="#000" stroke-width="1"/>
+      <path id="Trazado_721370" data-name="Trazado 721370" d="M17878.738-3713.907H17752.8l-4.621,87.854-4.949-35.524-1.65,2.343" transform="translate(-16873.084 11462.907)" fill="none" stroke="#000" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

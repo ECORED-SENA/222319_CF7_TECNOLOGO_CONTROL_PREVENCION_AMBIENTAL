@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="158" viewBox="0 0 158 158">
+  <g id="Grupo_946942" data-name="Grupo 946942" transform="translate(0 -0.104)">
+    <g id="Grupo_946937" data-name="Grupo 946937" transform="translate(0 0)">
+      <g id="Elipse_5524" data-name="Elipse 5524" transform="translate(0 0.103)" fill="#e8e8e8" stroke="#17263d" stroke-width="1">
+        <circle cx="79" cy="79" r="79" stroke="none"/>
+        <circle cx="79" cy="79" r="78.5" fill="none"/>
+      </g>
+      <g id="Elipse_5523" data-name="Elipse 5523" transform="translate(15 14.103)" fill="#fff" stroke="#17263d" stroke-width="1">
+        <ellipse cx="64" cy="64.5" rx="64" ry="64.5" stroke="none"/>
+        <ellipse cx="64" cy="64.5" rx="63.5" ry="64" fill="none"/>
+      </g>
+      <g id="Elipse_5522" data-name="Elipse 5522" transform="translate(27 27.103)" fill="#e8e8e8" stroke="#17263d" stroke-width="1">
+        <circle cx="51.5" cy="51.5" r="51.5" stroke="none"/>
+        <circle cx="51.5" cy="51.5" r="51" fill="none"/>
+      </g>
+      <g id="Elipse_5520" data-name="Elipse 5520" transform="translate(39 39.103)" fill="#fff" stroke="#17263d" stroke-width="1">
+        <circle cx="39.5" cy="39.5" r="39.5" stroke="none"/>
+        <circle cx="39.5" cy="39.5" r="39" fill="none"/>
+      </g>
+      <g id="Elipse_5521" data-name="Elipse 5521" transform="translate(53 53.103)" fill="#e8e8e8" stroke="#17263d" stroke-width="1">
+        <circle cx="26" cy="26" r="26" stroke="none"/>
+        <circle cx="26" cy="26" r="25.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_946934" data-name="Grupo 946934" transform="translate(53.76 45.56)">
+      <g id="Elipse_5501" data-name="Elipse 5501" transform="translate(22.24 25.544)" fill="#f1cc4b" stroke="#17263d" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+      <g id="Elipse_5502" data-name="Elipse 5502" transform="translate(43.24 12.544)" fill="#f1cc4b" stroke="#17263d" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+      <g id="Elipse_5503" data-name="Elipse 5503" transform="translate(45.24 49.544)" fill="#f1cc4b" stroke="#17263d" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+      <g id="Elipse_5504" data-name="Elipse 5504" transform="translate(13.24 60.544)" fill="#f1cc4b" stroke="#17263d" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+      <g id="Elipse_5505" data-name="Elipse 5505" transform="translate(0.24 -0.456)" fill="#f1cc4b" stroke="#17263d" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

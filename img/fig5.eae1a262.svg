@@ -1,0 +1,20 @@
+<svg id="nitrogen-2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="130" viewBox="0 0 130 130">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe59a"/>
+      <stop offset="1" stop-color="#ffffd5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffde00"/>
+      <stop offset="1" stop-color="#fd5900"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_947996" data-name="Grupo 947996">
+    <circle id="Elipse_7643" data-name="Elipse 7643" cx="65" cy="65" r="65" fill="url(#linear-gradient)"/>
+  </g>
+  <g id="Grupo_947998" data-name="Grupo 947998" transform="translate(31.23 26.66)">
+    <g id="Grupo_947997" data-name="Grupo 947997">
+      <path id="Trazado_721202" data-name="Trazado 721202" d="M183.785,105H129.754A6.767,6.767,0,0,0,123,111.766v63.148a6.767,6.767,0,0,0,6.754,6.766h54.031a6.767,6.767,0,0,0,6.754-6.766V111.766A6.767,6.767,0,0,0,183.785,105Zm-31.518,9.021h9.005a2.254,2.254,0,0,1,2.185,2.8l-4.5,18.042a2.252,2.252,0,1,1-4.37-1.093l3.8-15.241h-6.121a2.255,2.255,0,0,1,0-4.511ZM165.775,170.4a2.251,2.251,0,0,1-4.265,1.009l-9.243-18.518V170.4a2.251,2.251,0,1,1-4.5,0V143.34a2.251,2.251,0,0,1,4.265-1.009l9.243,18.518V143.34a2.251,2.251,0,1,1,4.5,0Z" transform="translate(-123 -105)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
